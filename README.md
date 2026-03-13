@@ -1,2 +1,2 @@
 Git Class
-Praise God 
+simulating a push before pull
